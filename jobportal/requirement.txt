@@ -1,0 +1,7 @@
+Django>=3.2,<5.0
+djangorestframework
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
+sqlparse
