@@ -38,4 +38,4 @@ dj-database-url
 djangorestframework
 djongo
 pymongo
-sqlparse
+sqlparse==0.2.4
