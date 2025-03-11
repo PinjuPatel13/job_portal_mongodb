@@ -46,6 +46,7 @@ REST_FRAMEWORK = {
 
 INSTALLED_APPS = [
     'job',
+    'djongo',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
