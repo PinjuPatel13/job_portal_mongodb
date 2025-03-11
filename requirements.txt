@@ -37,4 +37,4 @@ wcwidth==0.2.13
 dj-database-url
 djangorestframework
 sqlparse
-job_portal
+
