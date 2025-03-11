@@ -38,3 +38,4 @@ dj-database-url
 djangorestframework
 djongo
 pymongo
+sqlparse
